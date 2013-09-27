@@ -1,0 +1,55 @@
+﻿=== Plugin Name ===
+Contributors: erichsparks
+Donate link: 
+Tags: textus, textus.biz, text-messaging, text message, texting
+Requires at least: 3.0.1
+Tested up to: 3.4
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+TextUs.Biz - Messages for Small Business Web to Text Widget
+
+== Description ==
+
+This plugin allows users of TextUs.Biz - Messages for Small Business to embed a widget not their WordPress website in order to allow visitors of the website to initiate a text conversation with the business.
+
+
+
+== Installation ==
+
+Simply be adding two lines of code to your website . . . your customers can click on a “TextUs” tab, enter their cell phone number and send you message that will instantly pop up in your TextUs.Biz application. When you respond back, it goes directly to the customer’s phone as a text message!
+Step 1) To add this to your site, simply log into your Messages account, click on the down arrow next to your phone number, and choose account settings.
+
+
+Step 2) From here, you have the option to choose between our Floating Tab option or the static Button option. Simply choose the style you would like to use.
+
+
+Step 3) Paste the code snippet into the proper section of your website.
+
+
+
+== Frequently Asked Questions ==
+
+= Does this serve the same function as live chat? =
+
+
+No. This is not an online chat. You can use the tab to have a visitor start a text message conversation with you. The conversation stays purely SMS and the interactions go from cell phone to your Messages dashboard.
+
+= Can I install a floating tab or a button? =
+
+Both! You can choose the tab or button type from within your Messages account settings in the widget section.
+
+
+= When I reply to a visitor, where does the text go? =
+
+The text will go straight to the visitor’s cell phone. When they reply back, the message will appear in the Messages dashboard.
+
+== Screenshots ==
+
+
+
+== Changelog ==
+
+= 1.0 =
+* Initial Release
