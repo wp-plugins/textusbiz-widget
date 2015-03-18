@@ -8,7 +8,7 @@ Author: Rage Digital
 Author URI: http://ragedigital.com
 */
 
-/*  Copyright 2013  Erich Sparks for Rage Digital (email : contact@erichsparks.copm)
+/*  Copyright 2015  Erich Sparks for Rage Digital (email : contact@erichsparks.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
